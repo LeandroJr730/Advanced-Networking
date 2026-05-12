@@ -1,10 +1,17 @@
-# Advanced Networking — Final Project
+<div id="user-content-toc"> 
+  <ul align="center" style="list-style: none;"> 
+    <summary > 
+      <h1>Advanced Networking — Final Project </h1> 
+    </summary> 
+  </ul> 
+</div>
+
 ### Enterprise Network Infrastructure with VLANs, Domain Services & Email Server
 
-📚 **Course:** NET-153-E101 — Advanced Networking (Spring 2026)
-👩‍🏫 **Instructor:** Brenda Wamsley
-👨‍🎓 **Student:** Leandro Augusto Romagnoli Junior — juninhoromagnoli11@gmail.com
-👥 **Group 1 Team:** Steven (Manager), Leandro
+### 📚 Course: NET-153-E101 — Advanced Networking (Spring 2026)
+### 👩‍🏫 Instructor: Brenda Wamsley
+### 👨‍🎓 Student: Leandro Augusto Romagnoli Junior — juninhoromagnoli11@gmail.com
+### 👥 Group 1 Team: Leandro and Steven
 
 ---
 
