@@ -20,7 +20,7 @@ Connected via console cable to configure the switch. The switch hadn't been prop
 
 Originally planned to run AD/DNS/DHCP and the email server as two VMs on Server1. Hit repeated BSODs trying different ISOs and configurations. Switched to VMware Workstation Pro and got VMs running, but the host server was randomly shutting down.
 
-After consulting the instructor, learned that a Type 2 hypervisor was causing instability on the hardware. Pivoted to a bare-metal installation of Windows Server 2022 directly on Server2 instead.
+After consulting the instructor, figured out that the Type 2 hypervisor could be the reason of the instability on the hardware. Pivoted to a bare-metal installation of Windows Server 2022 directly on Server2 instead.
 
 ---
 
