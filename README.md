@@ -37,9 +37,9 @@ The project required real troubleshooting under pressure — hardware failures, 
 
 ## 📸 Lab Photos
 
-![Full rack with switch, router, and servers](photos/Full rack with switch, router, and servers.jpeg)
-![Server and switch mid configurations](photos/Server and switch mid configurations.jpeg)
-![Server setup](photos/Server setup.jpeg)
+![Full rack with switch, router, and servers](photos/LabPhotos1.jpeg)
+![Server and switch mid configurations](photos/LabPhotos2.jpeg)
+![Server setup](photos/LabPhotos3.jpeg)
 
 ---
 
