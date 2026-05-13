@@ -28,7 +28,7 @@
 | Device | Role |
 |---|---|
 | 2× Dell PowerEdge rack-mounted servers | Server1 (DC) and Server2 (Email) |
-| Dell Precision Tower workstation | Additional host |
+| 2x Dell Precision Tower workstation | Workstations |
 | Cisco router | Inter-VLAN routing & external link |
 | HP managed switch | VLAN segmentation |
 | Wireless Access Point (WAP) | Wireless client access |
