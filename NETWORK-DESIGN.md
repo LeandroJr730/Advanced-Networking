@@ -34,7 +34,9 @@ The network uses a **router-on-a-stick** architecture with one Cisco router hand
 | Router sub-interface .30 | VLAN 30 gateway | 192.168.13.129 |
 | Router outside interface | Inter-group link | 192.168.6.1 |
 | Group 2 router | Static route target | 192.168.6.7 |
-| DHCP scope | Dynamic leases | 192.168.13.50 – .100 |
+| DHCP scope — VLAN 10 | Dynamic leases | 192.168.13.10 – .62 |
+| DHCP scope — VLAN 20 | Dynamic leases | 192.168.13.75 – .126 |
+| DHCP scope — VLAN 30 | Dynamic leases | 192.168.13.140 – .190 |
 
 ---
 
@@ -44,4 +46,4 @@ The network uses a **router-on-a-stick** architecture with one Cisco router hand
 |---|---|---|
 | mail.south.com | A | 192.168.13.131 |
 | south.com | MX | mail.south.com |
-| mail.north.com | A | *(Group 2's mail server IP)* |
+| mail.north.com | A | 192.168.80.30 |
