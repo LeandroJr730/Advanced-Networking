@@ -37,7 +37,7 @@ After the VM issues, we switched to bare-metal installations:
 - Connected a KVM to both servers and booted Server2 from a USB with the Windows Server 2022 ISO, installing it directly on the hardware.
 - Changed BIOS boot mode from Legacy to UEFI on both servers.
 
-With both servers running bare-metal Windows Server 2022, we redid the core configurations. The setup was essentially the same as what we had done in the VMs — the main difference was that it was now stable.
+With both servers running bare-metal Windows Server 2022, we redid the core configurations. The setup was essentially the same as what we had done in the VMs — the main difference was that it was now more stable.
 
 ---
 
@@ -116,7 +116,7 @@ Configured the router's outside interface (`192.168.6.1`) and added a static rou
 
 > **Issue:** Started receiving duplicate IP errors for `192.168.13.129` on the router and switch. After troubleshooting, found that an old unused VLAN interface on the switch still had that IP assigned from an earlier configuration. Removed the IP from the unused VLAN and shut it down — errors resolved.
 
-Added DNS records to resolve Group 2's mail server (`mail.north.com`). Assisted Group 2 with their email configuration. Verified ACL blocking port 80 from outside was active.
+Added DNS records to resolve Group 2's mail server (`mail.north.com`). Assisted Group 2 with their email configuration. Verified ACL blocking port 80 from outside, configured by partner, was active.
 
 ---
 
